@@ -16,7 +16,7 @@ The Amplify Console will fork this repo in your GitHub account, and then build a
 
 ## Run locally with the Amplify CLI
 
-1. Clone the repo that was just forked in your account
+1. Clone the repo that was just forked in your account now
 
   ```
   git clone git@github.com:<username>/create-react-app-auth-amplify.git
